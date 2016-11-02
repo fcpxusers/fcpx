@@ -4,5 +4,5 @@ This is a public database of bugs, feature requests and improvement suggestions.
 
 If you create a new issue report, or think it is useful, you should also [email Apple](https://www.apple.com/feedback/finalcutpro.html) so that the development team is aware of how many people think it would be useful to address.
 
-In the meantime, go to the [issue database] to review, comment or star your pet peeve about FCPX.
+In the meantime, go to the [issue database](https://github.com/fcpxusers/fcpx/issues) to review, comment or star your pet peeve about FCPX.
 
