@@ -1,6 +1,6 @@
 # Introduction
 
-> **NOTE:** This database is not affiliated with Apple or the Final Cut Pro X Development Team
+> **NOTE:** This site is not affiliated with Apple or the Final Cut Pro X Development Team
 
 This is a public database of bugs, feature requests and improvement suggestions. This resource has no official connection with Apple, or with the Final Cut Pro X development team, but it provides a central location for FCPX users to log issues, workaround and ideas for improving the product.
 
